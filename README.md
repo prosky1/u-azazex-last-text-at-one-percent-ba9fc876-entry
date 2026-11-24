@@ -8,8 +8,8 @@ Entry for the [Last Text at One Percent](https://make.fun/bounty/u-azazex-last-t
 
 ## The message
 
-> 1% left: I deleted your browser history on my way out. You're welcome. Goodbye.
+> Dying confession: your autocorrect was me. Every 'duck' was deliberate.
 
 ## How it works
 
-`main.py` writes exactly that one message — 79 characters, a single line, nothing else — to `/output/entry.txt`, then reads it back and verifies it byte-for-byte before exiting.
+`main.py` writes exactly that one message — 71 characters, a single line, nothing else — to `/output/entry.txt`, then reads it back and verifies it byte-for-byte before exiting.
